@@ -1,0 +1,9 @@
+A simple web based precomputation form completely inspired by celnav for MSFS.
+
+All fields are editable, and clicking on the star selection azimuth diagram (top left) will
+add sequential numbers as reference, middle click to clear.
+
+You can use the form at top of page to save/load/delete forms to your browsers local
+storage. Enter a name and press save, use the dropdown box to see saved forms which
+you can load or delete. You can also print to svg for more permanent (but uneditable)
+storage if desired.
